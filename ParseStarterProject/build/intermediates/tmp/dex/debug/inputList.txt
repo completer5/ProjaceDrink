@@ -1,0 +1,4 @@
+D:\andriod\ProjaceDrink\ParseStarterProject\build\intermediates\classes\debug
+D:\andriod\ProjaceDrink\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-40f77c2d9ee1046d69d64629bae9c3d8f8295e6b.jar
+D:\andriod\ProjaceDrink\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.9.1-d3a2a4cfd05ac336f9dc622ccef50287f28c971a.jar
+D:\andriod\ProjaceDrink\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.9.1-5b636e4ee447ec57ad64cbc36a43a852c834bf48.jar
